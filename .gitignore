@@ -1,10 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+contract/node_modules
 dapp/node_modules
 /node_modules
 /.pnp
-.pnp.js
+.pnp.jsnp
 
 # testing
 /coverage
